@@ -22,7 +22,7 @@ A = np.array([[1,2,3],[3,6,9]])
 rank = np.linalg.matrix_rank(A)
 print(rank)
 ## Output:
-!["Output"](/matrix.png)
-## Result:
+![matrix](https://github.com/Arun2005-create/RANK-OF-A-MATRIX/assets/138849356/86353f81-c62e-4244-aa87-83924645d88b)
+## RESULT:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
